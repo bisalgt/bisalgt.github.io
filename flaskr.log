@@ -15,3 +15,53 @@ INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 WARNING:root:###bisal2 -- msggws -- 9832244422 -- bisat@gamil.com###
 INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 22:54:26] "[32mPOST / HTTP/1.1[0m" 302 -
 INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 22:54:26] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 617-207-540
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 07:53:37] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 07:53:38] "[37mGET /static/assets/img/favicon.ico HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 07:53:45] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 07:53:45] "[37mGET /static/css/styles.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 07:53:45] "[37mGET /static/js/scripts.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 07:53:46] "[37mGET /static/assets/img/portfolio/projects.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 07:53:46] "[37mGET /static/assets/img/pp-photo.svg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 07:53:46] "[37mGET /static/assets/img/portfolio/blog2.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 07:53:46] "[37mGET /static/assets/img/portfolio/hobbies.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 07:53:47] "[37mGET /static/assets/img/favicon.ico HTTP/1.1[0m" 200 -
+WARNING:root:###test -- this is the test msg -- 22222 -- testt@gmail.com###
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 07:54:32] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 07:54:32] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 07:54:33] "[37mGET /static/assets/img/favicon.ico HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 07:55:17] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 07:55:17] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 07:55:17] "[36mGET /static/assets/img/pp-photo.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 07:55:17] "[36mGET /static/assets/img/portfolio/blog2.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 07:55:17] "[36mGET /static/assets/img/portfolio/projects.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 07:55:17] "[36mGET /static/assets/img/portfolio/hobbies.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 617-207-540
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 617-207-540
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 08:20:43] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 08:20:43] "[37mGET /static/js/scripts.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 08:20:49] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 08:20:49] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 08:20:49] "[37mGET /static/assets/img/pp-photo.svg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 08:20:49] "[36mGET /static/assets/img/portfolio/projects.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 08:20:49] "[36mGET /static/assets/img/portfolio/blog2.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Apr/2021 08:20:49] "[36mGET /static/assets/img/portfolio/hobbies.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'D:\\Projects\\Portfolio\\Portfolio\\portfolio.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 617-207-540
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\Projects\\Portfolio\\Portfolio\\portfolio.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 617-207-540
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
