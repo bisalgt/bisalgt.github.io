@@ -3,7 +3,9 @@ import logging
 import os
 
 app = Flask(__name__)
-app.config['FREEZER_BASE_URL'] = 'http://localhost/build'
+project_path = os.getcwd()
+
+app.config['FREEZER_BASE_URL'] = project_path
 
 logging.basicConfig(filename='flaskr.log', encoding='utf-8', level=logging.DEBUG)
 
