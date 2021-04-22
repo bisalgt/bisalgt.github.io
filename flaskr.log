@@ -1,0 +1,17 @@
+INFO:root:###bisal -- msg from site -- 9840014569 -- bisalgt@gmail.com###
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 22:53:31] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 22:53:31] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 22:53:31] "[37mGET /static/assets/img/favicon.ico HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\vgt\\Project\\python-directory\\Portfolio\\portfolio.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 177-011-018
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\vgt\\Project\\python-directory\\Portfolio\\portfolio.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 177-011-018
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+WARNING:root:###bisal2 -- msggws -- 9832244422 -- bisat@gamil.com###
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 22:54:26] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 22:54:26] "[37mGET / HTTP/1.1[0m" 200 -
