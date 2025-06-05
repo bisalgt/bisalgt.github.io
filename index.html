@@ -78,9 +78,11 @@
             overflow: hidden;
         }
         .project-image {
-            width: 100%;
-            height: auto;
+            width: 100%;          /* Makes image take full width of container */
+            height: 200px;        /* Fixed height for uniformity */
+            object-fit: cover;    /* Crops image to fill area without distortion */
             display: block;
+            border-radius: 8px;   /* Optional: rounded corners */
         }
         .project-details {
             padding: 15px;
